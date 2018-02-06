@@ -1,8 +1,8 @@
 {
   "authentication": {
     "title": "Privacy impact assessment",
-    "subtitle1": "A platform to create <br> and manage your PIAs",
-    "subtitle2": "Access tools and glossaries",
+    "subtitle1": "Lage en plattform <br> og administrere dine PIA-er",
+    "subtitle2": "Få tilgang til verktøy og ordlister",
     "start_app": "Access the PIA's software (Beta)",
     "description": "This software by the <strong>French Data Protection Authority (CNIL)</strong> is meant to guide the data controllers in building and demonstrating compliance to the GDPR. It helps to properly carry out a data protection impact assessment by facilitating the use of the PIA method developed by the CNIL.",
     "start": "Start"
