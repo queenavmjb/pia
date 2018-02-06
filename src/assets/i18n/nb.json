@@ -1,21 +1,22 @@
 {
   "authentication": {
-    "title": "Privacy impact assessment",
+    "title": "Vurdering av personvernkonsekvenser",
     "subtitle1": "Lage en plattform <br> og administrere dine PIA-er",
     "subtitle2": "Få tilgang til verktøy og ordlister",
-    "start_app": "Access the PIA's software (Beta)",
-    "description": "This software by the <strong>French Data Protection Authority (CNIL)</strong> is meant to guide the data controllers in building and demonstrating compliance to the GDPR. It helps to properly carry out a data protection impact assessment by facilitating the use of the PIA method developed by the CNIL.",
+    "start_app": "Få tilgang til PIA-programmet (Beta)",
+    "description": "Dette programet utviklet av <strong> Det franske datatilsynet (CNIL)</strong> er en veileder for behandlingsansvarlig for å bygge og demonstrere samsvar med personopplysningsloven. Det bidrar med å gjennomføre en vurdering av personvernkonsekvenser, ved å fasilitere en DPIA-metodikk, utviklet av CNIL.",
     "start": "Start"
   },
   "header": {
-    "logo_title": "Privacy impact assessment",
+    "logo_title": "Vurdering av personvernkonsekvenser",
     "logo_subtitle": "",
     "homepage_link": "Dashboard",
-    "knowledge_base_link": "Knowledge base",
-    "pia_example_link": "PIA example",
+    "knowledge_base_link": "Kunnskapsbase",
+    "pia_example_link": "PIA-eksempler",
     "languages": {
-      "official_translations": "Official translations",
-      "unofficial_translations": "Unofficial translations",
+      "official_translations": "Offisiell oversettelser",
+      "unofficial_translations": "Uoffisiell oversettelser",  
+      
       "fr": "Français",
       "en": "English",
       "cs": "Česky",
@@ -25,8 +26,8 @@
       "nb": "Norwegian"
     },
     "tools": {
-      "title": "Tools",
-      "settings": "Settings",
+      "title": "Verktøy",
+      "settings": "Innstillinger",
       "accessibility": "Visually impaired accessibility (high contrast colors, daltonism)",
       "help": "Help",
       "about": "About"
