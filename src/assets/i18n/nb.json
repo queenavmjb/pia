@@ -28,106 +28,106 @@
     "tools": {
       "title": "Verktøy",
       "settings": "Innstillinger",
-      "accessibility": "Visually impaired accessibility (high contrast colors, daltonism)",
-      "help": "Help",
-      "about": "About"
+      "accessibility": "Tilretteleggelse for synshemmede (høye kontrastfarger, daltonisme)",
+      "help": "Hjelp",
+      "about": "Om"
     }
   },
   "homepage": {
     "filters": {
-      "list": "list",
-      "card": "card",
-      "sort": "Sort",
-      "sort_by": "by",
-      "name": "Name",
-      "date": "Date",
+      "list": "liste",
+      "card": "kort",
+      "sort": "type",
+      "sort_by": "av",
+      "name": "Navn",
+      "date": "Dato",
       "status": "Status",
-      "author": "Author",
-      "assessor": "Reviewer",
-      "validator": "Validator",
-      "new_pia": "New PIA",
-      "import_pia": "Import PIA",
-      "list_rocket_content": "Get started ! To initiate <br>a PIA, click on the +",
-      "card_rocket_content": "Get started !<br><br>To initiate a PIA,<br> click on New PIA"
+      "author": "Forfatter",
+      "assessor": "Revisor",
+      "validator": "Godkjenner",
+      "new_pia": "Ny PIA",
+      "import_pia": "Importer PIA",
+      "list_rocket_content": "Kom i gang ! For å starte <br>en PIA, Trykk på + tegnet",
+      "card_rocket_content": "Kom i gang !<br><br>For å atarte en PIA,<br> Trykk på Ny PIA"
     },
     "cards": {
-      "new_pia": "New PIA",
-      "placeholder_new_pia": "New PIA",
-      "or": "or",
-      "import_pia": "Import PIA",
-      "placeholder_import_pia": "Import PIA",
-      "title_close_creation": "Close",
+      "new_pia": "Ny PIA",
+      "placeholder_new_pia": "NY PIA",
+      "or": "eller",
+      "import_pia": "Importer PIA",
+      "placeholder_import_pia": "Importer PIA",
+      "title_close_creation": "Lukk",
       "pia_name": "PIA",
-      "placeholder_pia_name": "PIA's title",
-      "author": "Editing",
-      "placeholder_author": "Firstname, lastname",
-      "evaluation": "Review",
-      "placeholder_evaluation": "Firstname, lastname",
-      "validation": "Validation",
-      "placeholder_validation": "Firstname, lastname",
-      "date": "Date",
+      "placeholder_pia_name": "Tittel på PIA",
+      "author": "Redigering",
+      "placeholder_author": "Fornavn, Etternavn",
+      "evaluation": "Revisor",
+      "placeholder_evaluation": "Fornavn, Etternavn",
+      "validation": "Godkjenner",
+      "placeholder_validation": "Fornavn, Etternavn",
+      "date": "Dato",
       "status": "Status",
-      "creation_status": "Creation",
+      "creation_status": "Opprettelse",
       "start": "Start",
-      "placeholder_start": "All fields must be filled",
+      "placeholder_start": "Alle felter må fylles ut",
       "item": {
         "tools": {
-          "edit": "Edit information",
-          "export": "Export",
-          "more_options": "More options",
-          "duplicate": "Duplicate",
-          "action_plan": "Display<br>action plan",
-          "pia": "Display<br>PIA",
-          "remove": "Delete"
+          "edit": "Rediger informasjon",
+          "export": "Eksporter",
+          "more_options": "Flere muligheter",
+          "duplicate": "Duplisere",
+          "action_plan": "Vis<br>handlingsplan",
+          "pia": "Vis<br>PIA",
+          "remove": "Slett"
         },
-        "edit_pia": "Edit PIA",
-        "save_pia": "Save"
+        "edit_pia": "Rediger PIA",
+        "save_pia": "Lagre"
       }
     },
     "lists": {
       "column_pia": "PIA",
-      "column_updated_at": "Last opened",
-      "column_author": "Editing",
-      "column_evaluation": "Review",
-      "column_validation": "Validation",
-      "column_creation": "Created",
+      "column_updated_at": "Sist åpnet",
+      "column_author": "Endret",
+      "column_evaluation": "Revidert",
+      "column_validation": "Godkjent",
+      "column_creation": "Laget",
       "column_status": "Status",
-      "column_progression": "Progress",
-      "column_actions": "Actions",
+      "column_progression": "Framgang",
+      "column_actions": "Handlinger",
       "item": {
         "tools": {
-          "edit": "Edit",
-          "export": "Export",
-          "duplicate": "Duplicate",
-          "action_plan": "Display action plan",
-          "pia": "Display PIA",
-          "remove": "Delete"
+          "edit": "Endre",
+          "export": "Eksporter",
+          "duplicate": "Dupliser",
+          "action_plan": "Vis handlingsplan",
+          "pia": "Vis PIA",
+          "remove": "Slett"
         }
       }
     }
   },
   "pia": {
     "statuses": {
-      "0": "In progress",
-      "1": "Rejected",
-      "2": "Simple validation",
-      "3": "Signed validation",
-      "4": "Archived",
-      "5": "Waiting for validation"
+      "0": "I arbeid",
+      "1": "Avvist",
+      "2": "Forenklet godkjenning",
+      "3": "Signert godkjenning",
+      "4": "Arkivert",
+      "5": "Til godkjenning"
     },
     "header": {
-      "preview": "Preview",
-      "display_action_plan": "Display<br>action plan"
+      "preview": "Forhåndsvisning",
+      "display_action_plan": "Vis<br>handlingsplan"
     },
     "attachments": {
-      "title": "Attachments",
-      "add": "Add",
-      "remove": "Remove"
+      "title": "Vedlegg",
+      "add": "Legg til",
+      "remove": "Fjern"
     },
     "sections": {
-      "homepage_link": "Back to dashboard",
-      "validate_pia": "Validate PIA",
-      "refuse_pia": "Refused PIA",
+      "homepage_link": "Tilbake til dashboard",
+      "validate_pia": "Godkjenne PIA",
+      "refuse_pia": "Avslått PIA",
       "status": {
         "evaluation": {
           "title": "",
@@ -142,42 +142,42 @@
       }
     },
     "footer": {
-      "ask_evaluation": "Ask for review",
-      "validate_evaluation": "Validate review",
-      "subsection_validated": "Subsection reviewed, awaiting final validation",
-      "mandatory_fields": "All fields must be filled"
+      "ask_evaluation": "Be om revisjon",
+      "validate_evaluation": "Godkjenne revisjon",
+      "subsection_validated": "Underkapittel revidert, venter på endelig revisjon.",
+      "mandatory_fields": "Alle felter må fylles ut"
     }
   },
   "measures": {
-    "placeholder_title": "Measure title",
-    "add": "Add an empty measure (otherwise, use the knowledge base)",
-    "edit": "Edit measure",
-    "remove": "Delete measure",
-    "default_placeholder": "Describe the existing or intended measures to ensure data security."
+    "placeholder_title": "Mål tittel",
+    "add": "Legg til et tomt mål (eller bruk kunnskapsbasen)",
+    "edit": "Endre målet",
+    "remove": "Slett målet",
+    "default_placeholder": "Beskriv de eksisternede eller tiltenkte måleene for å sikre informasjonssikkerhet."
   },
   "knowledge_base": {
-    "title": "Knowledge base",
-    "search": "Search",
-    "add_measure": "Add",
-    "placeholder_help": "Entry aids",
-    "placeholder_add_measure": "Add this measure",
-    "add_measure_hint": "You can also add a measure from the knowledge base.",
+    "title": "Kunnskapsbase",
+    "search": "Søk",
+    "add_measure": "Legg til",
+    "placeholder_help": "Starthjelp",
+    "placeholder_add_measure": "Legg til dette målet",
+    "add_measure_hint": "Du kan også legge til et mål fra kunnskapsbasen.",
     "filters": {
-      "title": "Filters",
-      "all": "All",
-      "definitions": "Definitions",
-      "organizational_measures": "Organisational controls",
-      "measures_on_data": "Logical security controls",
-      "general_measures": "Physical Security controls",
-      "no_result": "No result found."
+      "title": "Filtre",
+      "all": "Alle",
+      "definitions": "Definisjoner",
+      "organizational_measures": "Organisatoriske tiltak",
+      "measures_on_data": "Logiske sikkerhetstiltak",
+      "general_measures": "Fysiske sikkerhetstiltak",
+      "no_result": "Ingen resultater funnet."
     },
     "category": {
-      "definition": "Definition",
-      "principle": "Principle",
-      "organizational_measure": "Organisational control",
-      "measure_on_data": "Logical security control",
-      "general_measure": "Physical Security control",
-      "example": "Example"
+      "definition": "Definisjon",
+      "principle": "Prinsipper",
+      "organizational_measure": "Organisatoriske tiltak",
+      "measure_on_data": "Logiske sikkerhetstiltak",
+      "general_measure": "Fysiske sikkerhetstiltak",
+      "example": "Eksempel"
     },
     "slugs": {
       "PIA_LGL_FOND": {
