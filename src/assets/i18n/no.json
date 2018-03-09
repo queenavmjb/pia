@@ -266,190 +266,190 @@
         "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_ANO": {
-        "placeholder": "Indicate here implemented anonymisation mechanisms",
-        "name": "Anonymisation",
-        "description": "Indicate here whether anonymisation mechanisms are implemented, which ones and for what purpose. <br>Remember to clearly distinguish between anonymous and pseudonymous data.",
+        "placeholder": "Angi her implementerte anonymiseringsmekanismer",
+        "name": "Anonymisering",
+        "description": "Angi her om anonymiseringsteknikker er implementert, hvilke og for hvilket formål. <br>Husk å skille mellom anonyme og pseudonyme opplysninger.",
         "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_CLO": {
-        "placeholder": "Indicate here if processing partitioning is planned, and how this is carried out.",
+        "placeholder": "Angi her om partisjonering av behandlingen er planlagt, og hvordan det utføres.",
         "name": "Partitioning data",
-        "description": "Implementation of data partitioning helps to reduce the possibility that personal data can be correlated and that a breach of all personal data may occur.",
+        "description": "Implementering av datapartisjonering bidrar til å redusere muligheten for at personopplysninger kan kobles og at det kan oppstå brudd/avvik relatert til alle personopplysningene.",
         "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_CTLA": {
-        "placeholder": "Indicate here how users profiles are defined and attributed.",
-        "name": "Logical access control",
-        "description": "Methods to define and attribute users profiles. Specify the <strong>authentication</strong> means implemented . Where applicable, specify the rules applicable to passwords (minimum length, required characters, validity duration, number of failed attempts before access to account is locked, etc.).",
+        "placeholder": "Angi her hvordan brukerprofiler defineres og tilordnes.",
+        "name": "Teknisk tilgangskontroll",
+        "description": "Metodikk for å definere og tilordne brukerprofiler. Spesifiser <strong>authentication</strong> tiltak som er implementert. Om relevant, spesifiser regler for passord (minimum lengde/antall tegn, krav til tegn, gyldighet/lengde, antall feilforsøk før kontoen stenges, osv.).",
         "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_LOG": {
-        "placeholder": "Indicate here whether events are logged and how long these traces are stored for.",
-        "name": "Traceability (logging)",
-        "description": "Policies that define traceability and log management.",
+        "placeholder": "Angi her om hendelser blir logget og hvor lenge disse loggene er lagret.",
+        "name": "Sporbarhet (logging)",
+        "description": "Prosedyrer og rutiner for sporbarhet og håndtering av logger.",        
         "source": "PIAF Connected Objects p22"
       },
       "PIA_TEC_ARCH": {
-        "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of stored data, which ones and for what purpose.",
-        "name": "Archiving",
-        "description": "Where applicable, describe here the processes of archive management (delivery, storage, consultation, etc.) under your responsibility. Specify the archiving roles (offices of origin, transferring agencies, etc.) and the archiving policy. State if data may fall within the scope of public archives.",
+        "placeholder": "Angi her om det er implemntert tiltak for å sikre integriteten på lagring av personopplysninger og monitorering av integritetsbudd, hvilke og med hvilket formål.",
+        "name": "Arkivering",
+        "description": "Beskriv prosedyrer og rutiner for arkivering av personopplysninger (leveranse, lagring, konsulering, osv.) som du er ansvarlig for. Spesifiser arkiveringsroller (hvor personopplysningene oppstår, hvor de overføres, osv.) og arkiverings-policy. Avgjør om opplysningene faller inn under offentleglova.",
         "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_TEC_PAP": {
-        "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of paper documents, which ones and for what purpose.",
-        "name": "Paper document security",
-        "description": "Where paper documents containing data are used during the processing, indicate here how they are printed, stored, destroyed and exchanged.",
+        "placeholder": "Gi en indikasjon på om det er innført prosedyrer for integritetsovervåkning av papirdokumenter, for hvilke dokumenter og hva formålet er.",
+        "name": "Sikkerhet for papirdokumenter",
+        "description": "Om papirdokumenter som inneholder persondata blir brukt i behandlingen, gi en kort beskrivelse av hvordan de er skrevet ut, makulert, sendt eller utvekslet.",
         "source": "PIAF Connected Objects p22"
       },
       "PIA_TEC_MINI": {
-        "placeholder": "Indicate here means implemented to reduce the severity of risks by limiting the amount of personal data",
-        "name": "Minimising the amount of personal data",
-        "description": "The following methods could be used : Filtering and removal, Reducing sensitivity via conversion, Reducing the identifying nature of data, Reducing data accumulation, Restricting data access",
+        "placeholder": "Gi en indikasjon på hvilke tiltak som er innført for å redusere risikograden gjennom å begrense mengden av personopplysninger",
+        "name": "Begrense mengden av personopplysninger",
+        "description": "Følgende metodene kan brukes: filtrering og sletting, redusere følsomheten, redusere identifiserende elementer i dataene, redusere akkumulering av data, begrense tilgangen til dataene",
         "source": "PIAF Connected Objects p40"
       },
       "PIA_SEC_EXP": {
-        "placeholder": "Describe here how the software updates (operating systems, applications, etc.) and application of security corrective controls patches are carried out.",
-        "name": "Operating security",
-        "description": "Policies implemented to reduce the possibility and the impact of risks on assets supporting personal data.",
+        "placeholder": "Beskriv hvordan programvare oppdateres (operativsystemer, programvare, etc.) og hvordan sikkerhetsoppdateringer ivaretas.",
+        "name": "Operativ sikkerhet",
+        "description": "Prosedyrer som er innført for å redusere muligheten for å og konsekvenser av risiko i støttesystemer som behandler personopplysninger.",
         "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_MAL": {
-        "placeholder": "Describe here the controls implemented to reduce risks while accessing less secure networks.",
-        "name": "Clamping down on malicious software",
-        "description": "Controls implemented on workstations and servers to protect them from malicious software while accessing less secure networks.",
+        "placeholder": "Beskriv her hvilke kontrolltiltak som er innført for å redusere risiko ved tilkobling til mindre sikre nettverk.",
+        "name": "Beskyttelse mot ødeleggende programvare",
+        "description": "Kontrolltiltak innført på arbeidssituasjoner og servere for å beskytte dem mot ødeleggende programvare ved oppkobling mot mindre sikre nettverk.",
         "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_COMP": {
-        "placeholder": "Describe here the controls implemented on workstations",
-        "name": "Managing workstations",
-        "description": "Controls implemented on workstations (automatic locking, regular updates, configuration, physical security, etc.) to reduce the possibility to exploit software properties (operating systems, business applications etc.) to adversely affect personal data.",
+        "placeholder": "Beskriv her hvilke tiltak som er innført på arbeidsstasjoner",
+        "name": "Administrere arbeidsstasjoner",
+        "description": "Tiltak innført på arbeidsstasjoner (automatisk låsing, jevnlige oppdateringer, konfigurering, fysisk sikkerhet, etc.) for å redusere muligheten for at ødeleggende programvare utnytter egenskapene til operativsystemer, programvare, etc. for negativ utnyttelse eller påvirkning av personopplysninger.",
         "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_WEB": {
-        "placeholder": "Indicate here controls implemented to protect websites.",
-        "name": "Website security",
-        "description": "Implementation of ANSSI's Recommendations for securing websites.",
+        "placeholder": "Gi en kort beskrivelse av hvilke kontrolltiltak som er innført for å beskytte nettsider.",
+        "name": "Sikkerhet på nettsider",
+        "description": "Innføring av NSMs anbefalinger for sikring av nettsider.",
         "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_BKP": {
-        "placeholder": "Indicate here how backups are managed. Clarify whether they are stored in a safe place.",
-        "name": "Backups",
-        "description": "Policies and means implemented to ensure the availability and/or integrity of the personal data, while maintaining their confidentiality.",
+        "placeholder": "Gi en kort beskrivelse av hvordan backup gjennomføres og administreres. Vær tydelig på om backup oppbevares på et sikkert sted eller ikke.",
+        "name": "Backup",
+        "description": "Prosedyrer og tiltak som er innført for å sikre tilgjengelighet og/eller integriteten til personopplysninger samtidig som konfidensialiteten bevares.",
         "source": "PIAF Connected Objects p23 & PIA3 p27  - WIKI"
       },
       "PIA_SEC_MAIN": {
-        "placeholder": "Describe here how physical maintenance of hardware is managed",
-        "name": "Maintenance",
-        "description": "Policies describing how physical maintenance of hardware is managed, stating whether this is contracted out.<br> Indicate whether the remote maintenance of apps is authorized, and according to what arrangements. Specify whether defective equipment is managed in a specific manner.",
+        "placeholder": "Beskriv håndteringen av fysisk vedlikehold av maskinvare",
+        "name": "Vedlikehold",
+        "description": "Prosedyrer og rutiner for fysisk vedlikehold av maskinvare, om dette er outsourcet.<br> Angi om remote vedlikehold av apper er autorisert og i henhold til hvilke ordninger. Spesifiser hvordan deffekt utstyr håndteres eventuelt kasseres.",
         "source": "PIAF Connected Objects p23"
       },
       "PIA_SEC_NET": {
-        "placeholder": "Indicate here the security controls of network on which the processing is carried out",
-        "name": "Network security",
-        "description": "Depending on the type of network on which the processing is carried out (isolated, private or Internet). Specify which firewall system, intrusion detection systems or other active or passive devices are in charge of ensuring network security.",
+        "placeholder": "Gi en kort beskrivelse over hvilke kontrolltiltak som er på nettverket hvor databehandlingen finner sted",
+        "name": "Nettverkssikkerhet",
+        "description": "Avhengig av type nettverk hvor databehandlingen finner sted (isolert, privat eller internett), spesifiser hvilke typer brannmurer, IDS (intrusion detection systems) og eventuelt andre aktive eller passive enheter som benyttes for å sikre nettverket.",
         "source": "PIAF Connected Objects p23"
       },
       "PIA_SEC_PHY": {
-        "placeholder": "Indicate here how physical access control is carried out regarding the premises accommodating the processing.",
-        "name": "Physical access control",
-        "description": "Policies to ensure physical security (zoning, escorting of visitors, wearing of passes, locked doors and so on).Indicate whether there are warning procedures in place in the event of a break-in.",
+        "placeholder": "Gi en kort beskrivelse av hvordan det fysiske adgangskontrollsystemet til lokasjonen hvor databehandlingen finner sted fungerer.",
+        "name": "Fysisk adgangskontroll",
+        "description": "Hvilke prosedyrer finnes for å sikre fysisk sikkerhet til lokasjonen (ulike soner, eskortering av besøkende, synlige gjestekort, låste dører og lignende). Er det utarbeidet prosedyrer for varsling ved innbrudd?.",
         "source": "PIAF Connected Objects p23"
       },
       "PIA_SEC_LOG": {
-        "placeholder": "Indicate here means and controls implemented to detect incidents involving personal data",
-        "name": "Monitoring network activity",
-        "description": "Monitor intrusion detection systems and intrusion prevention systems in order to analyze network (wired networks, Wi-Fi, radio waves, fiber optics, etc.) traffic in real time and detect any suspicious activity suggestive of a cyber attack scenario.",
+        "placeholder": "Gi en kort beskrivelse over hvilke tiltak og kontroller som er innført for å oppdage hendelser knyttet til personopplysninger",
+        "name": "Overvåkning av nettverksaktivitet",
+        "description": "Overvåker med IDS (intrusion detection systems) og IPS (intrusion prevention systems) for å analysere nettverkstrafikk i sanntid (kablet nettverk, trådløst nettverk, radiobølger, fiberoptikk, etc.) for å oppdage mistenkelig aktivitet som indikerer angrep.",
         "source": "PIA3 p67 - WIKI"
       },
       "PIA_SEC_MAT": {
-        "placeholder": "Indicate here the controls bearing on the physical security of servers and workstations",
-        "name": "Hardware security",
-        "description": "Indicate here the controls bearing on the physical security of servers and workstations (secure storage, security cables, confidentiality filters, secure erasure prior to scrapping, etc.).",
+        "placeholder": "Gi en kort beskrivelse over hvilke kontrolltiltak som er innført for fysisk sikring av serverer og arbeidsstasjoner",
+        "name": "Fysisk sikring av datautstyr",
+        "description": "Gi en kort beskrivelse over hvilke kontrolltiltak som er innført for fysisk sikring av serverer og arbeidsstasjoner (sikker oppbevaring,  lagring, kabling, konfidensialitetsfiltre, sikker sletting av data før makulering av disker og andre lagringsmedier og lignende).",
         "source": "PIAF Connected Objects p23 - WIKI"
       },
       "PIA_SEC_SRC": {
-        "placeholder": "Indicate here whether the implantation area is subject to environmental disasters",
-        "name": "Avoiding sources of risk",
-        "description": "Documentation on implantation area, which should not be subject to environmental disasters (flood zone, proximity to chemical industries, earthquake or volcanic zone, etc.).Specify if dangerous products are stored in the same area.",
+        "placeholder": "Beskriv om lokasjonen er utsatt for miljøkatastofer.",
+        "name": "Unngå risikokilder",
+        "description": "Prosedyrer som beskriver tiltak for å beskytte mot, oppdage og bekjempe brann. Om det er aktuelt, beskriv tiltak for å hinder vannskader på grunn av flom eller oversvømmelse, samt tiltak ved strømbrudd.",
         "source": "PIAF Connected Objects p23 - WIKI"
       },
       "PIA_SEC_PROT": {
-        "placeholder": "Indicate here means to avoid to limit non-human sources of risks.",
-        "name": "Protecting against non-human sources of risks",
+        "placeholder": "Angi tiltak for å unngå eller begrense ikke-menneskelige kilder til risiko.",
+        "name": "Beskyttelse mot ikke-menneskelige kilder til risiko",
         "description": "Policies describing the means of fire prevention, detection and fighting. Where applicable, indicate the means of preventing water damage.Also specify the means of power supply monitoring and relief.",
         "source": "PIAF Connected Objects p23 - WIKI"
       },
       "PIA_ORG_ORG": {
-        "placeholder": "Indicate if the roles and responsibilities for data protection are defined.",
-        "name": "Organisation",
-        "description": "Specify whether a person is responsible for the enforcement of privacy laws and regulations. Specify whether there is a monitoring committee (or equivalent) responsible for the guidance and follow-up of actions concerning the protection of privacy.",
+        "placeholder": "Gi en kort beskrivelse om roller og ansvar for datasikkerhet er definert.",
+        "name": "Organisering",
+        "description": "Spesifiser om det er en person (for eksempel personvernombud) som er ansvarlig for overholdelse av lover og forskrifter for personvern. Spesifiser også om det er en rådgivendegruppe som er ansvarlig for å følge opp aktiviteter rundt personvern.",
         "source": "PIAF Connected Objects p24 - WIKI"
       },
       "PIA_ORG_POL": {
-        "placeholder": "Describe here the documentary base setting out data protection objectives and rules.",
-        "name": "Policy",
-        "description": "Set out important aspects relating to data protection within a documentary base making up the data protection policy and in a form suited to each type of content (risks, key principles to be followed, target objectives, rules to be applied, etc.) and each communication target (users, IT department, policymakers, etc.).",
+        "placeholder": "Beskriv styringssystemet for personvern og informasjonssikkerhet.",
+        "name": "Styringssystem",
+        "description": "Beskriv viktige retningslinjer, proedyrer og rutiner som inngår i styringssystemet for personvern og informasjonssikkerhet (risiko, hovedprinsipper må følges, angrepsmål, regler som skal følges osv.) og hvem man kommuniserer med (brukere, IT-avdeling, ledelsen, revisjon, osv.).",
         "source": "PIA3 p78 - WIKI"
       },
       "PIA_ORG_RMGT": {
-        "placeholder": "Describe here processes to control the risks that processing operations performed by the organisation pose on data protection and the privacy of data subjects.",
-        "name": "Managing privacy risks",
-        "description": "Policy describing processes to control the risks that processing operations performed by the organisation pose on data protection and the privacy of data subjects (building a map of the risks, etc.).",
+        "placeholder": "Beskriv prosessene for kontroll av risiko, i forhold til personvern og informasjonssikkerhet for den registrerte, som oppstår som følge av behandlingsaktivitetenen i virksomheten.",
+        "name": "Håndtering av personvernrisiko",
+        "description": "Prosedyre som beskriver prosessene for kontroll av risiko, i forhold til personvern og datasikkerhet for den registrerte, som oppstår som følge av behandlingsaktiviteten i virksomheten (utarbeide et risikokart, osv.).",
         "source": "PIA3 p77 - WIKI"
       },
       "PIA_ORG_PBD": {
-        "placeholder": "Describe here how privacy protection is integrated in projects",
-        "name": "Integrating privacy protection in projects",
-        "description": "Existence of a policy designed integrate the protection of personal data in all new processing operations.",
+        "placeholder": "Beskriv hvordan personvern er innarbeidet i prosjekter",
+        "name": "Innarbeide personvern i prosjekter",
+        "description": "Etabler prosedyrer for å innarbeide sikring av personopplysninger i alle nye behandlingsprosesser.",
         "source": "PIA3 p79 - WIKI"
       },
       "PIA_ORG_VIOL": {
-        "placeholder": "Indicate here whether IT incidents are subject to a documented and tested management procedure.",
-        "name": " Managing personal data violations",
-        "description": "Existence of an operational organisation that can detect and treat incidents that may affect the data subjects' civil liberties and privacy.",
+        "placeholder": "Angi om IKT-hendelser er underlagt prosedyrer som er dokumenterte og testet.",
+        "name": " Håndtering av brudd på personopplysnigssikkerheten",
+        "description": "Finnes det en operativ gruppe eller avdeling som kan oppdage og behandle hendelser som kan påvirke den registrertes rettigheter og friheter.",
         "source": "PIAF Connected Objects p24 and PIA3 p36 - WIKI"
       },
       "PIA_ORG_PERS": {
-        "placeholder": "Indicate here what awareness-raising controls are carried out with regard to employees.",
-        "name": "Personnel management",
-        "description": "Existence of a policy describing awareness-raising controls are carried out with regard to a new recruit and what controls are carried out when persons who have been accessing data leave their job.",
+        "placeholder": "Angi hvilke kontrolltiltak som er innført for å bevisstgjøre ansatte.",
+        "name": "Personalledelse",
+        "description": "Finnes det prosedyrer som beskriver bevisstgjøring av betydningen for personvern og informasjonssikkerhet, av nyansatte, ansatte og ansatte som slutter.",
         "source": "PIAF Connected Objects p24"
       },
       "PIA_ORG_EXT": {
-        "placeholder": "Indicate here, for processors requiring access to data, the security controls and arrangements carried out as regards such access.",
-        "name": "Relations with third parties",
-        "description": "Existence of a policy and processes reducing the risk that legitimate access to personal data by third parties may pose to the data subjects' civil liberties and privacy.",
+        "placeholder": "Angi hvilke sikkerhetskontroller og avtaler som er utarbeidet for databehandlere som har behov for tilgang til personopplysniger.",
+        "name": "Forhold til tredjepart",
+        "description": "Finnes det prosedyrer og prosesser for å redusere risikoen som lovlig tilgang fra tredjepart kan representere i forhold til dem registrertes rettigheter og friheter.",
         "source":  "PIA3 p48 - WIKI"
       },
       "PIA_ORG_AUD": {
-        "placeholder": "Indicate here whether the effectiveness and adequacy of privacy controls are monitored.",
-        "name": "Supervision",
-        "description": "Existence of a policy and processes to obtain an organisation able to manage and control the protection of personal data held within it.",
+        "placeholder": "Angi om det er overvåkning av effekt og tilstrekkelighet av personverntiltakene.",
+        "name": "Tilsyn",
+        "description": "Finnes det prosedyrer og prosesser som gjør virksomheten i stand til å administrere og kontrollere at personvernet i behandlingen ivaretas.",
         "source":  "PIA3 p76 - WIKI"
       },
       "PIA_DEF_EXA": {
-        "name": "Quality of data",
-        "description": "Personal data shall be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’). <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 5.1 d) of [GDPR]</a>",
+        "name": "Datakvalitet",
+        "description": "Persondata skal være korrekte og oppdaterte. Alle nødvendig tiltak skal umiddelbart igangsettes for å slette eller korrigere data som ikke er korrekte (‘accuracy’). <br>Se <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">art. 5.1 d) of [GDPR]</a>",
         "source": "GDPR Art. 5.1 d)"
       },
       "PIA_DEF_MES": {
-        "name": "Measures",
-        "description": "To be chosen among those available in section \"Planned or existing measures\", which you may complete if needed.",
+        "name": "Målinger",
+        "description": "Velg blant de som er tilgjenglig i avsnittet \"Planlagte eller eksisterende målinger av innførte tiltak i forhold til hensikt/formål\", som bør kompletteres ved behov.",
         "source": "None"
       },
       "PIA_DEF_RT": {
-        "name": "Controller",
-        "description": "Natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.<br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.7 of [GDPR]</a>",
+        "name": "Behandlingsansvarlig",
+        "description": "En fysisk eller juridisk person, en offentlig myndighet, en institusjon eller ethvert annet organ som alene eller sammen med andre bestemmer formålet med behandlingen av personopplysninger og hvilke midler som skal benyttes; når formålet med og midlene for behandlingen er fastsatt i unionsretten eller i medlemsstatenes nasjonale rett, kan den behandlingsansvarlige, eller de særlige kriteriene for utpeking av vedkommende, fastsettes i unionsretten eller i medlemsstatenes nasjonale rett.<br>Se <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">art. 4.7 i [GDPR]</a>",
         "source": "GDPR Art. 4.7"
       },
       "PIA_DEF_DCP": {
-        "name": "Personal data",
-        "description": "Any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.1 of [GDPR]</a>",
+        "name": "Personopplysninger",
+        "description": "Enhver opplysning om en identifisert eller identifiserbar fysisk person («den registrerte»); en identifiserbar fysisk person er en person som direkte eller indirekte kan identifiseres, særlig ved hjelp av en identifikator, f.eks. et navn, et identifikasjonsnummer, lokaliseringsopplysninger, en nettidentifikator eller ett eller flere elementer som er spesifikke for nevnte fysiske persons fysiske, fysiologiske, genetiske, psykiske, økonomiske, kulturelle eller sosiale identitet. <br>Se <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">art. 4.1 i [GDPR]</a>",
         "source": "GDPR Art 4.1"
       },
       "PIA_DEF_DEST": {
-        "name": "Recipient",
-        "description": "Natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing. <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.9 of [GDPR]</a>",
+        "name": "Mottaker",
+        "description": "En fysisk eller juridisk person, offentlig myndighet, institusjon eller ethvert annet organ som personopplysninger utleveres til, enten det dreier seg om en tredjepart eller ikke. Offentlige myndigheter som kan motta personopplysninger innenfor rammen av en særskilt undersøkelse i samsvar med unionsretten eller medlemsstatenes nasjonale rett, skal imidlertid ikke anses som mottakere; nevnte offentlige myndigheters behandling av slike opplysninger skal være i samsvar med gjeldende regler om vern av personopplysninger i henhold til formålet med behandlingen. <br>Se <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.9 i [GDPR]</a>",
         "source": "GDPR Art. 4.9"
       },
       "PIA_DEF_SUPT": {
