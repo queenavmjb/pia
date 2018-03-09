@@ -17,19 +17,20 @@
       "official_translation": "TO BE TRANSLATED - Original version",
       "cnil_translations": "TO BE TRANSLATED - CNIL provided translations",
       "community_translations": "TO BE TRANSLATED - Community provided translations",
-      "fr": "Français",
-      "en": "English",
-      "cz": "Česky",
-      "it": "Italiaans",
-      "nl": "Nederlands",
-      "pl": "Polski",
-      "de": "Deutsch",
-      "es": "Español"
+      "fr": "Fransk",
+      "en": "Engelsk",
+      "cz": "Tjekkisk",
+      "it": "Italiensk",
+      "nl": "Nederlandsk",
+      "pl": "Polsk",
+      "de": "Tysk",
+      "es": "Spansk",
+      "no": "Norsk"
     },
     "tools": {
       "title": "Verktøy",
       "settings": "Innstillinger",
-      "accessibility": "Visually impaired accessibility (high contrast colors, daltonism)",
+      "accessibility": "Tilretteleggelse for synshemmede (høye kontrastfarger, daltonisme)",
       "help": "Hjelp",
       "about": "Om"
     }
@@ -52,139 +53,139 @@
       "card_rocket_content": "Kom i gang !<br><br>For å starte en DPIA,<br> klikk på Ny DPIA"
     },
     "cards": {
-      "new_pia": "Ny PIA",
-      "placeholder_new_pia": "New PIA",
-      "or": "or",
-      "import_pia": "Import PIA",
-      "placeholder_import_pia": "Import PIA",
-      "title_close_creation": "Close",
-      "pia_name": "PIA",
-      "placeholder_pia_name": "PIA's title",
-      "author": "Editing",
-      "placeholder_author": "Firstname, lastname",
-      "evaluation": "Review",
-      "placeholder_evaluation": "Firstname, lastname",
-      "validation": "Validation",
-      "placeholder_validation": "Firstname, lastname",
-      "date": "Date",
+      "new_pia": "Ny DPIA",
+      "placeholder_new_pia": "Ny DPIA",
+      "or": "eller",
+      "import_pia": "Importer PIA",
+      "placeholder_import_pia": "Importer DPIA",
+      "title_close_creation": "Lukk",
+      "pia_name": "DPIA",
+      "placeholder_pia_name": "DPIAs tittel",
+      "author": "Endre",
+      "placeholder_author": "Fornavn, Etternavn",
+      "evaluation": "Revisjon",
+      "placeholder_evaluation": "Fornavn, Etternavn",
+      "validation": "Godkjenning",
+      "placeholder_validation": "Fornavn, Etternavn",
+      "date": "Dato",
       "status": "Status",
-      "creation_status": "Creation",
+      "creation_status": "Opprettelse",
       "start": "Start",
-      "placeholder_start": "All fields must be filled",
+      "placeholder_start": "Alle felter må fylles ut",
       "item": {
         "tools": {
-          "export": "Export",
-          "more_options": "More options",
-          "duplicate": "Duplicate",
-          "action_plan": "Display<br>action plan",
-          "pia": "Display<br>PIA",
-          "remove": "Delete"
+          "export": "Eksporter",
+          "more_options": "Flere valg",
+          "duplicate": "Kopier",
+          "action_plan": "Vis<br>handlingsplan",
+          "pia": "Vis<br>DPIA",
+          "remove": "Slett"
         },
-        "edit_pia": "Edit PIA",
-        "consult_pia": "TO BE TRANSLATED - Consult PIA"
+        "edit_pia": "Endre DPIA",
+        "consult_pia": "Som skal oversettes - Konsulter DPIA"
       }
     },
     "lists": {
-      "column_pia": "PIA",
-      "column_updated_at": "Last opened",
-      "column_author": "Editing",
-      "column_evaluation": "Review",
-      "column_validation": "Validation",
-      "column_creation": "Created",
+      "column_pia": "DPIA",
+      "column_updated_at": "Sist åpnet",
+      "column_author": "Endret",
+      "column_evaluation": "Revidert",
+      "column_validation": "Godkjent",
+      "column_creation": "Laget",
       "column_status": "Status",
-      "column_progression": "Progress",
-      "column_actions": "Actions",
+      "column_progression": "Framgang",
+      "column_actions": "Handlinger",
       "item": {
         "tools": {
-          "consult": "TO BE TRANSLATED - Consult",
-          "edit": "Edit",
-          "export": "Export",
-          "duplicate": "Duplicate",
-          "action_plan": "Display action plan",
-          "pia": "Display PIA",
-          "remove": "Delete"
+          "consult": "Som skal oversettes - Konsulter",
+          "edit": "Endre",
+          "export": "Eksporter",
+          "duplicate": "Kopier",
+          "action_plan": "Vis handlingsplan",
+          "pia": "Vis DPIA",
+          "remove": "Slett"
         }
       }
     }
   },
   "pia": {
     "statuses": {
-      "0": "In progress",
-      "1": "Rejected",
-      "2": "Simple validation",
-      "3": "Signed validation",
-      "4": "Archived",
-      "5": "Waiting for validation"
+      "0": "Under behandling",
+      "1": "Avvist",
+      "2": "Forenklet godkjenning",
+      "3": "Signert godkjenning",
+      "4": "Arkivert",
+      "5": "Til godkjenning"
     },
     "header": {
-      "preview": "Preview",
-      "display_action_plan": "Display<br>action plan"
+      "preview": "Forhåndsvisning",
+      "display_action_plan": "Vis<br>handlingsplan"
     },
     "attachments": {
-      "title": "Attachments",
-      "add": "Add",
-      "remove": "Remove"
+      "title": "Vedlegg",
+      "add": "Legg til",
+      "remove": "Fjern"
     },
     "sections": {
-      "homepage_link": "Back to dashboard",
-      "validate_pia": "Validate PIA",
-      "refuse_pia": "Refused PIA",
+      "homepage_link": "Tilbake til dashbord",
+      "validate_pia": "Godkjenne DPIA",
+      "refuse_pia": "Avvist DPIA",
       "status": {
         "evaluation": {
-          "title": "Waiting for review.",
-          "content": "This part has not yet been reviewed. If you wish to edit the content submitted for review you have to ",
-          "cancel": "cancel the review request.",
-          "cancel_button": "Cancel the review request"
+          "title": "Venter på revisjon.",
+          "content": "Denne delen er ikke ennå ikke blitt revidert. Hvis du ønsker å endre innholdet sendt for revisjon må du",
+          "cancel": "slette forespørsel om revisjon.",
+          "cancel_button": "Slett forespørsel om revisjon"
         },
         "validation": {
-          "title": "Waiting for validation.",
-          "content": "This part has been reviewed and is waiting for the overall PIA validation. If you wish to change the review, you have to ",
-          "cancel": "cancel the validation request.",
-          "cancel_button": "Cancel the validation request"
+          "title": "Be om revisjon.",
+          "content": "Denne delen har blitt revidert og avventer en helhetlig DPIA godkjenning. Hvis du ønsker å ender revidert del,må du ",
+          "cancel": "slette forespørsel om godkjenning.",
+          "cancel_button": "Slett forespørsel om godkjenning"
         }
       }
     },
     "footer": {
-      "ask_evaluation": "Ask for review",
-      "validate_evaluation": "Validate review",
-      "subsection_validated": "Subsection reviewed, awaiting final validation",
-      "mandatory_fields": "All fields must be filled"
+      "ask_evaluation": "Spør om revisjon",
+      "validate_evaluation": "Godkjenn revideringen",
+      "subsection_validated": "Underkapittel revidert, avventer endelig godkjenniing",
+      "mandatory_fields": "Alle felter må fylles ut"
     }
   },
   "measures": {
-    "placeholder_title": "Measure title",
-    "add": "Add an empty measure (otherwise, use the knowledge base)",
-    "edit": "Edit measure",
-    "remove": "Delete measure",
-    "default_placeholder": "Describe the existing or intended measures to ensure data security."
+    "placeholder_title": "Tittel på mål",
+    "add": "Legg til et tomt mål (eller, bruk kunnskapsbasen)",
+    "edit": "Endre mål",
+    "remove": "Slett mål",
+    "default_placeholder": "Beskriv de eksisterende eller tiltenkte mål for å oppnå tilstrekkelig informasjonssikkerhet."
   },
   "knowledge_base": {
-    "title": "Knowledge base",
-    "search": "Search",
-    "add_measure": "Add",
-    "placeholder_help": "Entry aids",
-    "placeholder_add_measure": "Add this measure",
-    "add_measure_hint": "You can also add a measure from the knowledge base.",
+    "title": "Kunnskapsbase",
+    "search": "Søk",
+    "add_measure": "Legg til",
+    "placeholder_help": "Starthjelp",
+    "placeholder_add_measure": "Legg til dette målet",
+    "add_measure_hint": "Du kan også legge til et mål fra kunnskapsbasen.",
     "filters": {
-      "title": "Filters",
-      "all": "All",
-      "definitions": "Definitions",
-      "organizational_measures": "Organisational controls",
-      "measures_on_data": "Logical security controls",
-      "general_measures": "Physical Security controls",
-      "no_result": "No result found."
+      "title": "Filtre",
+      "all": "Alle",
+      "definitions": "Definisjoner",
+      "organizational_measures": "Organsiatorisk sikkerhetstiltak",
+      "measures_on_data": "Teknisk sikkerhetstiltak",
+      "general_measures": "Fysisk sikkerhetstiltak",
+      "no_result": "Ingen resultater funnet."
     },
     "category": {
-      "definition": "Definition",
-      "principle": "Principle",
-      "organizational_measure": "Organisational control",
-      "measure_on_data": "Logical security control",
-      "general_measure": "Physical Security control",
-      "example": "Example"
+      "definition": "Definisjon",
+      "principle": "Prinsipp",
+      "organizational_measure": "Organsiatorisk sikkerhetstiltak",
+      "measure_on_data": "Teknisk sikkerhetstiltak",
+      "general_measure": "Fysisk sikkerhetstiltak",
+      "example": "Eksempel"
     },
     "slugs": {
       "PIA_LGL_FOND": {
-        "name": "Justification of lawfulness",
+        "name": "Behandlingens lovlighet",
         "description": "- The data subject has given consent  to the processing of his or her personal data for one or more specific purposes <br>- Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract <br>-Processing is necessary for compliance with a legal obligation to which the controller is subject <br>- Processing is necessary in order to protect the vital interests of the data subject or of another natural person <br>- Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller <br>- Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child<br> See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">art. 6 of [GDPR]</a> ",
         "source": "PIA2 p4"
       },
